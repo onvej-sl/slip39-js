@@ -1,3 +1,12 @@
+# Bluewallet
+
+It's original [slip39](https://github.com/ilap/slip39-js/) but compiled with `babel-plugin-transform-bigint` to replace js `BigInt` with `JSBI`.
+
+To update:
+- sync src folder
+- run `npm build`
+
+
 # SLIP39
 
 [![npm](https://img.shields.io/npm/v/slip39.svg)](https://www.npmjs.org/package/slip39)
